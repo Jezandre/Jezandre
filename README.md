@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **Python para analise de dados**
 
-- 💬 Pergunte me sobre **SQL, POWER BI, ETL, EXCEL e Analise de dados**
+- 💬 Pergunte me sobre **SQL, POWER BI, ETL, Python, GIT, AWS, Linux, EXCEL e Analise de dados**
 
 - 📫 Me envie um email **jezandre_tiago@hotmail.com**
 
