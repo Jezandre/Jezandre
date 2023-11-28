@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jezandre</h1>
 <h3 align="center">Apaixonado por tecnologia e análise de dados</h3>
 
-- 🌱 Atualmente estou aprendendo **Python para analise de dados**
-
 - 💬 Pergunte me sobre **SQL, POWER BI, ETL, Python, GIT, AWS, Linux, EXCEL e Analise de dados**
 
 - 📫 Me envie um email **jezandre_tiago@hotmail.com**
