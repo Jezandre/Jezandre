@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jezandre</h1>
+<h1 align="center">Olé 👋, Eu sou Jezandre</h1>
 <h3 align="center">Apaixonado por tecnologia e análise de dados</h3>
 
 - 💬 Pergunte me sobre **SQL, POWER BI, ETL, Python, GIT, AWS, Linux, EXCEL e Analise de dados**
